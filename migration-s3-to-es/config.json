@@ -1,0 +1,4 @@
+{
+  "elastic_endpoint": "https://vpc-mdgbd-dev-es-nvmj6lhildyoycxludhoybmg7a.eu-west-1.es.amazonaws.com",
+  "bucket": "dev.index-calculation.era5.athena-query"
+}
